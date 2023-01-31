@@ -1,0 +1,12 @@
+D:\Project\Windows Form\LoginIn\LoginIn\bin\Debug\LoginIn.exe.config
+D:\Project\Windows Form\LoginIn\LoginIn\bin\Debug\LoginIn.exe
+D:\Project\Windows Form\LoginIn\LoginIn\bin\Debug\LoginIn.pdb
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.csproj.AssemblyReference.cache
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.csproj.SuggestedBindingRedirects.cache
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.frmlogin.resources
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.frmHome.resources
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.Properties.Resources.resources
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.csproj.GenerateResource.cache
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.csproj.CoreCompileInputs.cache
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.exe
+D:\Project\Windows Form\LoginIn\LoginIn\obj\Debug\LoginIn.pdb
